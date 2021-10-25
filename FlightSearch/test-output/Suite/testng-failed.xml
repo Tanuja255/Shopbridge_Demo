@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="createAccount(failed)">
+    <classes>
+      <class name="travel.FlightSearch.SignupPage">
+        <methods>
+          <include name="pageNavigation"/>
+          <include name="teardown"/>
+          <include name="createAcc" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- travel.FlightSearch.SignupPage -->
+    </classes>
+  </test> <!-- createAccount(failed) -->
+</suite> <!-- Failed suite [Suite] -->
