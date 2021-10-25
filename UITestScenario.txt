@@ -1,0 +1,17 @@
+1.Below instruction should be link :
+  If Form Already filled, Click here for Payment
+2.Hand pointer should be displayed on hover of Help.If user click on that ,Pop dialog box should open displaying the contact info
+  HELP 
+
+3. Date should be at right hand side of the form
+
+4.Select connection Type :  Lay out Radio button lists vertically, with one choice per line
+5.Suggestion : If you need a horizontal layout with multiple options per line, make sure to space the buttons and labels so that it’s absolutely clear which choice goes with which label.
+6.Textbox should in same size 
+
+7.Error message Fontsize should be same for all erro rmessage.Error message needs to be well placed to associate it with the field,
+
+8.There should be save as draft button
+9.There should be chkbox for view all terms and condition
+10.checkbox should be there to select for self declartion AND should be at the end of page
+button size shouold be same
